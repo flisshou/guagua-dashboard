@@ -1,0 +1,16 @@
+{
+  "name": "cola_dashboard",
+  "version": "0.0.0",
+  "authors": [
+    "ocowchun <ocowchun@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
