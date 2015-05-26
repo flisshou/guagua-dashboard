@@ -14,3 +14,6 @@ select service.Service_Name,count(activity.Service_id) from (select * from b01a2
 
 -- add_index(:b01a2_activity, :Service_id)
    -- -> 14.6695s
+
+-- B08S01-I
+B10BF04-B
